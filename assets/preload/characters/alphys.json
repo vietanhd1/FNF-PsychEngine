@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				545,
+				310
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Alphys_idle"
+		},
+		{
+			"offsets": [
+				429,
+				473
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Alphys_left"
+		},
+		{
+			"offsets": [
+				322,
+				337
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Alphys_right"
+		},
+		{
+			"offsets": [
+				720,
+				556
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Alphys_up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				371,
+				373
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Alphys_down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alphys_assest",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "distrustthree",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		0
+	],
+	"camera_position": [
+		-400,
+		-220
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

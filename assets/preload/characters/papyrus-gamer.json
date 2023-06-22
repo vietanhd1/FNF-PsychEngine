@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				43
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-116
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "papyrus idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				134,
+				-112
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left papyrus",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				187,
+				-107
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up papyrus",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/papyrus_yey",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "distrusttwo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-140,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

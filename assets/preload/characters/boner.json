@@ -1,0 +1,134 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				111,
+				-190
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-125
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-141,
+				-111
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				-160
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				110,
+				-190
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				3,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				-126
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				3,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-130,
+				-24
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				3,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-143,
+				-112
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				3,
+				4
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/snas",
+	"position": [
+		-40,
+		50
+	],
+	"healthicon": "snas",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-40,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -20,13 +20,12 @@
 				10,
 				11,
 				12,
-				13,
-				14
+				13
 			],
 			"fps": 24,
 			"anim": "danceLeft",
 			"loop": false,
-			"name": "Distrust GF Dancing Beat"
+			"name": "idle gf"
 		},
 		{
 			"offsets": [
@@ -34,6 +33,7 @@
 				-9
 			],
 			"indices": [
+				14,
 				15,
 				16,
 				17,
@@ -53,11 +53,11 @@
 			"fps": 24,
 			"anim": "danceRight",
 			"loop": false,
-			"name": "Distrust GF Dancing Beat"
+			"name": "idle gf"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/gf_angry",
 	"position": [
 		0,
 		0
@@ -65,9 +65,9 @@
 	"healthicon": "gf",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		255,
+		255,
+		255
 	],
 	"camera_position": [
 		0,
